@@ -13,6 +13,12 @@
 
 ## 2. 인프라 및 기술
 - 벡터 DB
+  - chroma
+  - pinecone
+  - weaviate
+  - Faiss
+  - Qdrant
+    
 - data pipelines
 - orchestration
 - LLM cache
